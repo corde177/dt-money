@@ -19,7 +19,5 @@ O DT-MONEY, é uma aplicação de controle financeiro, onde é possível cadastr
    * yarn start - Para inicializar.
    * Yarn build - Para gerar o build do projecto.
 
-     #### GitHub Pages:  https://corde177.github.io/dt-money/
-
 🔖 Layout do projecto 
 ![Alt text](dt-money.png)
